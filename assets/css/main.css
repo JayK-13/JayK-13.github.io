@@ -2269,7 +2269,7 @@
 						text-align: center;
 						line-height: 40px;
 						font-size: 18px;
-						color: #67A0EA;
+						color: #aaa;
 					}
 
 					#titleBar .toggle:active:before {
@@ -2301,7 +2301,7 @@
 				border-right: solid 2px #3c3c3c;
 				font-weight: 400;
 				text-transform: uppercase;
-				color: #888;
+				color: #00050A;
 				letter-spacing: 2px;
 				font-size: 0.85em;
 			}
