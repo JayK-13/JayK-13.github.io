@@ -1072,7 +1072,7 @@
 		background: #f0f0f0;
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #94CBF6;
 	}
 
 		body.is-loading * {
@@ -1089,7 +1089,7 @@
 	input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #777;
+		color: #71BDF7;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
