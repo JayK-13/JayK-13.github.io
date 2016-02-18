@@ -1072,7 +1072,7 @@
 		background: #f0f0f0;
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #94CBF6;
+		color: #777;
 	}
 
 		body.is-loading * {
@@ -1089,7 +1089,7 @@
 	input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #71BDF7;
+		color: #777;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2269,7 +2269,7 @@
 						text-align: center;
 						line-height: 40px;
 						font-size: 18px;
-						color: #aaa;
+						color: #67A0EA;
 					}
 
 					#titleBar .toggle:active:before {
