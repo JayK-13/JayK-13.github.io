@@ -1477,7 +1477,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #fd887a;
+			background: #3D72A4;
 		}
 
 		input[type="button"]:active,
@@ -1568,7 +1568,7 @@
 	}
 
 		#banner-wrapper .inner {
-			background: url("../../images/banner.jpg");
+			background: url("Books.jpg");
 			background-size: cover;
 		}
 
