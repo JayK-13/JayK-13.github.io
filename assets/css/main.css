@@ -1122,7 +1122,7 @@
 		}
 
 		a:hover {
-			color: #6699ff;
+			color: #3D72A4;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1635,7 +1635,7 @@
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #6699ff;
+			color: #3D72A4;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 		}
 
@@ -1691,12 +1691,12 @@
 			}
 
 		#nav > ul > li.active > a:before, #nav > ul > li:hover > a:before {
-			background: #6699ff;
+			background: #3D72A4;
 			color: #fff;
 		}
 
 		#nav > ul > li.active > a > span, #nav > ul > li:hover > a > span {
-			color: #ED786A;
+			color: #3D72A4;
 		}
 
 /* Features */
