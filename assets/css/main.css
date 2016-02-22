@@ -1122,12 +1122,12 @@
 		}
 
 		a:hover {
-			color: #ed786a;
+			color: #6699ff;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: #3377ff;
 			}
 
 	strong, b {
@@ -1646,7 +1646,7 @@
 		#header p {
 			text-transform: uppercase;
 			font-weight: 400;
-			color: #888;
+			color: #262626;
 		}
 
 /* Nav */
@@ -2301,7 +2301,7 @@
 				border-right: solid 2px #3c3c3c;
 				font-weight: 400;
 				text-transform: uppercase;
-				color: #00050A;
+				color: #888;
 				letter-spacing: 2px;
 				font-size: 0.85em;
 			}
