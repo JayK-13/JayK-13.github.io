@@ -1,0 +1,232 @@
+body {
+
+    background-color: black;
+    background-size: cover;
+    background-position: center center;
+    font-family: monospace;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+    margin: 5% auto;
+    text-align: center;
+}
+
+.splashTitle {
+    color: #fff;
+    font-size: 8em;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+    font-family: Lucida Sans Unicode;
+
+}
+
+#start {
+    border: 5px solid #000000;
+    color: #000000;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #ffffff;
+    box-shadow: 15px 15px 80px #555;
+    cursor: pointer;
+}
+  a#start:hover {
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+    background-image: url("img/maze.png");
+    background-size: 1000px 820px;
+    background-position: bottom center;
+    position: absolute;
+
+}
+
+#player {
+    height:43px;
+    width: 25px;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 1070px;
+}
+
+#citty {
+    width:40px;
+    height:30px;
+    position: absolute;
+    top: 300px;
+    left: 650px;
+}
+
+#dlanod {
+    height: 50px;
+    width: 25px;
+    position: absolute;
+    top: 600px;
+    left: 315px;
+}
+
+#yay {
+    width: 40px;
+    height: 30px;
+    position: absolute;
+    top: 100px;
+    left: 450px;
+}
+
+#xl {
+    height: 50px;
+    width: 30px;
+    position: absolute;
+    top: 500px;
+    left: 706px;
+}
+
+#button1 {
+    background-color: white;
+    padding: 5px 7px;
+    font-size: 10px;
+    color: black;
+    border: 2px solid black;
+    transition-duration: 0.4s;
+    font-family: Courier New;
+    text-decoration: none;
+    position: absolute;
+}
+
+#button1:hover {
+    background-color: black;
+    color: white;
+}
+
+#back {
+    position: absolute; bottom:10px; right:10px;
+    transition-duration: 0.4s;
+    background-color: white;
+    font-size: 10px;
+    color: black;
+    border: 2px solid black;
+    font-family: Lucida Console;
+    text-decoration: none;
+    padding: 5px 7px;
+    transition-duration: 0.4s;
+}
+
+#back:hover {
+    background-color: black;
+    color: white;
+}
+
+.exit {
+    opacity:0.6;
+    cursor: not-allowed;
+    color: black;
+    background-color: white;
+    padding: 5px 7px;
+    font-size: 10px;
+    position: absolute; bottom:35px; right:10px;
+    text-decoration: none;
+    font-family: Lucida Console;
+    border:2px solid black;
+}
+
+#Rules {
+    border: 5px solid white;
+    color: white;
+    height: 390px;
+    width: 1000px;
+    text-align: center;
+    margin-left: 200px; 
+    margin-top: 0px;
+    font-size: 38px;
+    position: absolute;
+}
+
+.leave {
+    opacity:0.6;
+    cursor: not-allowed;
+    color: black;
+    background-color: white;
+    padding: 5px 7px;
+    font-size: 10px;
+    position: absolute; bottom:10px; right:10px;
+    text-decoration: none;
+    font-family: Lucida Console;
+    border:2px solid black;
+}
+#textinput{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+#textinput1{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+
+#textinput2{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+#correct {
+    width: 70px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+        margin-top:30px; 
+
+}
+
+#theend {
+    margin-left: 450px
+}
+
+
+#end {
+    border: 5px solid #000000;
+    color: #000000;
+    padding: 20px 50px;
+    font-size: 5em;
+    text-decoration: none;
+    background-color: #ffffff;
+    box-shadow: 15px 15px 80px #555;
+    cursor: pointer;
+    margin-left: 450px;
+}
+  a#end:hover {
+    background-color: #000000;
+    color: #ffffff;
+  }
+
+  #endgame {
+    background-color: black;
+    padding: 5px 7px;
+    font-size: 10px;
+    color: white;
+    transition-duration: 0.4s;
+    font-family: Courier New;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 755px;
+    margin-left: 283px;
+    width: 60px;
+    text-align: center;
+}
+
+#endgame:hover {
+    background-color: white;
+    color: black;
+}
